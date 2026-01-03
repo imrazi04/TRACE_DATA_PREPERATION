@@ -34,11 +34,7 @@ This repository prepares a cleaned and augmented dermoscopic image dataset based
 ## Files of interest
 - `src/hair_remove.py` – hair detection and removal pipeline
 - `src/image_enhance.py` – image enhancement utilities
-- `src/notebook.ipynb` – exploratory notebook and reproducible steps
+- `src/notebook.ipynb` – exploratory notebook and reproducible 
 
-## Contact / Contributors
-- Maintainer: (Add your name or contact info here)
 
----
 
-If you'd like, I can also add a short CONTRIBUTING guide, include dependency install instructions, or add a small validation script to confirm the dataset has no images smaller than 720×720. Which would you like next?
